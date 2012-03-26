@@ -11,8 +11,8 @@ RSpec:
     /home/ubuntu/Documents/hw4_rottenpotatoes/app/helpers/movies_helper.rb: 
     - 1
     - 
-    - 1
-    - 0
+    - 
+    - 
     - 
     - 
     /home/ubuntu/Documents/hw4_rottenpotatoes/app/controllers/movies_controller.rb: 
@@ -92,4 +92,4 @@ RSpec:
     - 4
     - 
     - 
-  :created_at: 2012-03-26 19:56:07.357473 -00:00
+  :created_at: 2012-03-26 20:03:35.112344 +00:00
